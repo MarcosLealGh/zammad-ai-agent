@@ -1,0 +1,13 @@
+# documentación interna de la instancia — nunca subir
+system_prompt.md
+
+.env
+__pycache__/
+*.pyc
+
+# packaging / tooling
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
